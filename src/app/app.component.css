@@ -1,0 +1,25 @@
+/* Application-wide Styles */
+h1 {
+    color: orangered;
+    font-family: Arial;
+    font-size: 300%;
+
+
+}
+h2, h3 {
+    color: black;
+    font-family: Arial;
+    font-weight: lighter;
+}
+body {
+    margin: 2em;
+}
+body, input[text], button {
+    color: black;
+    font-family: Arial;
+}
+/* everywhere else */
+* {
+    font-family: Arial, sans-serif;
+
+}
